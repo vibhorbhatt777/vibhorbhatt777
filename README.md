@@ -1,16 +1,36 @@
-### Hi there 👋
+## About
 
+Hi, I'm Vibhor Bhatt. I am a third-year undergraduate student pursuing Information Technology  at [Jaipur Engineering College And Resesarch Center](https://jecrcfoundation.com/). I'm a intrested in Machine LEARNING and love to automate everything around me. Besides tech, I love Gaming, music, arts, poetry and watching documentaries.
+
+<table>
+  <tr>
+      <td><a href="https://www.linkedin.com/in/vibhor-bhatt-996480176/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+      <td><a href="mailto:bvibhor572@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
+
+## Currently Learning
+* Machine Learning Deployment 
+* Data Structures & Algorithms
+* MERN stack development
+* Competitive Programming
+  
+
+
+I am actively seeking internship opportunities starting July/August 2024 in following areas:
+* Applied Machine Learning.
+* FULL STACK
+
+
+## Social
+1. [LinkedIn](https://www.linkedin.com/in/vibhor-bhatt-996480176/)
+   
+
+
+
+
+
+                                                                                              
 <!--
-**vibhorbhatt777/vibhorbhatt777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
