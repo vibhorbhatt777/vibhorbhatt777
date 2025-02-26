@@ -18,7 +18,7 @@ Hi, I'm Vibhor Bhatt. I am a third-year undergraduate student pursuing Informati
   
 
 
-I am actively seeking internship opportunities starting July/August 2024 in following areas:
+I am actively seeking internship opportunities starting July/August 2025 in following areas:
 * Applied Machine Learning.
 * FULL STACK
 
