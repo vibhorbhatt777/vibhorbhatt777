@@ -1,6 +1,6 @@
 ## About
 
-Hi, I'm Vibhor Bhatt. I Complete my graduation from  [Jaipur Engineering College And Resesarch Center](https://jecrcfoundation.com/) in Information Technology. I'm a intrested in Machine LEARNING and love to automate everything around me. Besides tech, I love  music, arts, watching F1 and watching documentaries.
+Hi, I'm Vibhor Bhatt. I Completed my graduation from  [Jaipur Engineering College And Resesarch Center](https://jecrcfoundation.com/) in Information Technology. I'm a intrested in Machine LEARNING and love to automate everything around me. Besides tech, I love  music, arts, watching F1 and watching documentaries.
 You can Find My Portfolio Here - [Vibhor Bhatt](https://vibhor-learns-to-code.vercel.app/)
 
 <table>
