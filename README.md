@@ -10,6 +10,9 @@ You can Find My Portfolio Here - [Vibhor Bhatt](https://vibhor-learns-to-code.ve
   </tr>
 </table>
 
+## Working History
+Natural Language Processing Intern,https://multilipi.com/(March 2025 - June 2025)
+
 
 ## Currently Learning
 * Machine Learning Deployment 
