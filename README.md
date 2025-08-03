@@ -11,7 +11,7 @@ You can Find My Portfolio Here - [Vibhor Bhatt](https://vibhor-learns-to-code.ve
 </table>
 
 ## Working History
-Natural Language Processing Intern,(https://multilipi.com/)(March 2025 - June 2025)
+Natural Language Processing Intern, [Multilipi](https://multilipi.com/) (March 2025 - June 2025)
 
 
 ## Currently Learning
